@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EhemAi
 - 👀 I’m interested in research and data analysis
 - 🌱 I’m currently learning Python and data science
-- 💞️ I’m looking to collaborate on finding more efficient ways to analyze biological/epidemiological data
+- 💞️ I’m looking to collaborate on finding more efficient ways to analyze biological data
 - 📫 How to reach me - Twitter/X @Ehem_Ai
 
 <!---
